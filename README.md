@@ -22,7 +22,7 @@ Go to https://uptimerobot.com/ and set up and account
 
 click add new monitor, make the type HTTP(S) pick any name for the friendly name and paste the link you see on the right of the repl page (it will be https://TheLonelyDiscordBot.{your repl name}.repl.co). Finally click create monitor.
 
-# How to add to server
+## How to add to server
 go to this link and blank space with your discord bot's client id, which can be found at the same place as we found the bot token
 https://discord.com/api/oauth2/authorize?client_id= &permissions=8&scope=bot
 
