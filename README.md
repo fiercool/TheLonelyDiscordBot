@@ -1,3 +1,5 @@
+# this was from 2021, please leave me alone.
+
 # TheLonelyDiscordBot
 My discord bot, uploaded to github. 
 
